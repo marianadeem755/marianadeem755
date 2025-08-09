@@ -1,7 +1,7 @@
 # 🌟 Maria Nadeem | Data Scientist & AI Engineer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=300&section=header&text=Welcome%20to%20My%20AI%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff6f91,9b59b6,8e44ad&height=300&section=header&text=Welcome%20to%20My%20Data%20Science%20and%20AI%20Journey&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55&descSize=20" />
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=220&lines=🧠+Data+Scientist+%26+AI+Engineer;🏆+Kaggle+2x+Grandmaster;🐍+Python+Specialist;🤖+Machine+Learning+%26+Deep+Learning+Expert"/>
