@@ -84,26 +84,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
 ![Transformers](https://img.shields.io/badge/Transformers-Advanced-FFD93D?style=for-the-badge&logoColor=black&labelColor=1a1a1a)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Explorer-9D79BC?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-
-
-
 </div>
-
-## 📊 GitHub Analytics Dashboard
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marianadeem755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marianadeem755&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadeem755&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marianadeem755&theme=tokyonight" alt="Contribution Graph" />
-</div>
-
 
 ## 🎯 Core Expertise Areas
 
@@ -127,12 +108,26 @@
 
 ### 🤖 **AI & Machine Learning Portfolio**
 
-[![RAG Explorer](https://github-readme-stats.vercel.app/api/pin/?username=marianadeem755&repo=RAG-Explorer-AI-Document-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/marianadeem755/RAG-Explorer-AI-Document-Assistant)
-[![AI Teaching Assistant](https://github-readme-stats.vercel.app/api/pin/?username=marianadeem755&repo=AI_teaching_assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/marianadeem755/AI_teaching_assistant)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marianadeem755/RAG-Explorer-AI-Document-Assistant">
+        <img src="https://img.shields.io/badge/RAG_Explorer-View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marianadeem755/AI_teaching_assistant">
+        <img src="https://img.shields.io/badge/AI_Teaching_Assistant-View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### 📈 **Machine Learning**
-[![Iris Prediction](https://github-readme-stats.vercel.app/api/pin/?username=marianadeem755&repo=Iris-Prediction-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/marianadeem755/Iris-Prediction-App)
+<a href="https://github.com/marianadeem755/Iris-Prediction-App">
+  <img src="https://img.shields.io/badge/Iris_Prediction_App-View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
