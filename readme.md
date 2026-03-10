@@ -90,19 +90,18 @@
 </div>
 
 ## 📊 GitHub Analytics Dashboard
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marianadeem755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marianadeem755&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=00D4FF&text_color=c9d1d9&ring_color=FFD93D" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marianadeem755&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadeem755&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadeem755&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marianadeem755&theme=tokyonight&bg_color=0D1117&color=6366F1&line=00D4FF&point=FFD93D&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marianadeem755&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 
@@ -238,4 +237,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
+
 
